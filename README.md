@@ -10,7 +10,7 @@ I'm first-year Software Engineering student at RMUTL.
 * ✉️  You can contact me at [filmgg.com@gmail.com](mailto:filmgg.com@gmail.com)
 * 🧠  I'm learning Program Computer And Graphic Desing.
 * 🤝  I'm open to collaborating on Projects & Writing / Coding, Prototyping & Technical Collaboration
-* ⚡  i am love cat.
+* ⚡   I'm love cat.
 
 ### Skills
 
